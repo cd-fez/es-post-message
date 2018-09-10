@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jay-tian/jay-post-message.git"
+    "url": "git+https://github.com/cd-fez/es-post-message.git"
   },
   "keywords": [
     "post-message",
@@ -24,7 +24,7 @@
   "author": "jay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jay-tian/jay-post-message/issues"
+    "url": "https://github.com/cd-fez/es-post-message/issues"
   },
-  "homepage": "https://github.com/Jay-tian/jay-post-message#readme"
+  "homepage": "https://github.com/cd-fez/es-post-message#readme"
 }
