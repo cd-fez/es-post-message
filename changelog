@@ -2,3 +2,7 @@ CHANGELOG
 ==============
 
 "version": "1.0.0" （2018-09-10）
+
+
+"version": "1.0.1" （2018-09-10）
+修改 let 为 var (messenger.js)
