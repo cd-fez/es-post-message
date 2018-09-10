@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "component-emitter": "^1.2.1"
+  },
+  "name": "es-post-message",
+  "description": "post-message emitter",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  },
+  "scripts": {
+    "build": "babel index.js --out-file main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay-tian/jay-post-message.git"
+  },
+  "keywords": [
+    "post-message",
+    "emitter"
+  ],
+  "author": "jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay-tian/jay-post-message/issues"
+  },
+  "homepage": "https://github.com/Jay-tian/jay-post-message#readme"
+}
