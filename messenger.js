@@ -61,7 +61,7 @@ module.exports = (function () {
     // 初始化消息监听
     Messenger.prototype.initListen = function () {
       var self = this;
-      var deletefunction;
+      var deletefunction = function(){};
       if (window.esGeneralCallback) {
         deletefunction = window.esGeneralCallback;
       }
